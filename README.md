@@ -25,6 +25,10 @@ When all hell is breaking loose, you're gonna need a FishCoin!
 - Starfish: https://www.tinkercad.com/things/eZQL5s1fvsX
 - my remix: https://www.tinkercad.com/things/9an7ZNqosGP
 
+### Stars (coin body shapes)
+
+- https://www.printables.com/model/526221-stars
+
 ### Book Box
 
 - https://www.printables.com/model/295977-book-box-with-living-hinge
