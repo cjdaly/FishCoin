@@ -17,8 +17,13 @@ When all hell is breaking loose, you're gonna need a FishCoin!
 
 ### Skeleton Fish
 
-- fishbone: https://www.tinkercad.com/things/5PTMgsCLlAk
+- Fishbone: https://www.tinkercad.com/things/5PTMgsCLlAk
 - my remix: https://www.tinkercad.com/things/5hpVprp2yD3
+
+### Starfish
+
+- Starfish: https://www.tinkercad.com/things/eZQL5s1fvsX
+- my remix: https://www.tinkercad.com/things/9an7ZNqosGP
 
 ### Book Box
 
