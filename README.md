@@ -1,7 +1,9 @@
 # FishCoin
 
-![](IMG_0725.png)
+![](FishCoin-3.png)
 
 When all hell is breaking loose, you're gonna need a FishCoin!
 
-![](IMG_0721.png)
+![](FishCoin-1.png)
+
+![](FishCoin-2.png)
