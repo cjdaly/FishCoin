@@ -25,9 +25,9 @@ When all hell is breaking loose, you're gonna need a FishCoin!
 - Starfish: https://www.tinkercad.com/things/eZQL5s1fvsX
 - my remix: https://www.tinkercad.com/things/9an7ZNqosGP
 
-### Stars (coin body shapes)
+### Stars
 
-- https://www.printables.com/model/526221-stars
+- for coin bodies and inclusions: https://www.printables.com/model/526221-stars
 
 ### Book Box
 
