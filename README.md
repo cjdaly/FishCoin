@@ -2,7 +2,10 @@
 
 ![](FishCoin-3.png)
 
-When all hell is breaking loose, you're gonna need a FishCoin!
+_When all hell is breaking loose, you're gonna need a FishCoin!_
+
+This repo contains [3MF](https://3mf.io/) files for printing FishCoin tokens and boxes
+on a [Bambu Lab X1-Carbon](https://bambulab.com/en/x1) 3D printer.
 
 ![](FishCoin-1.png)
 
