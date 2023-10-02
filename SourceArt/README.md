@@ -1,5 +1,13 @@
 # FishCoin Source Art
 
+## Book Box
+
+- https://www.printables.com/model/295977-book-box-with-living-hinge
+
+## Orca
+
+- https://www.printables.com/model/261090-orca-killer-whale-decoration-or-card
+
 ## Salmon
 
 - Saknilap Salmon Release: https://www.tinkercad.com/things/3npcCKz1g7u
@@ -21,6 +29,6 @@
 
 - for coin bodies and inclusions: https://www.printables.com/model/526221-stars
 
-## Book Box
+## Turtle
 
-- https://www.printables.com/model/295977-book-box-with-living-hinge
+- https://www.printables.com/model/214322-sea-turtle-soap-dish
