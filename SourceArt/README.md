@@ -4,6 +4,11 @@
 
 - https://www.printables.com/model/295977-book-box-with-living-hinge
 
+## Halloween
+
+- Mexican Skull Masks: https://www.printables.com/model/617882-decorative-mexican-skulls-for-dia-de-muertos-skewe
+- Spooky Magnets: https://www.printables.com/model/612924-spooky-3d-magnet-collection-nine-different-designs
+
 ## Orca
 
 - https://www.printables.com/model/261090-orca-killer-whale-decoration-or-card
